@@ -2,6 +2,9 @@
   "name": "template",
   "version": "1.0.0",
   "description": "template",
+  "engines": {
+    "node": "14.15.1"
+  },
   "type": "module",
   "scripts": {
     "test": "npx -n --experimental-vm-modules -n --no-warnings jest --colors"
