@@ -1,3 +1,13 @@
-Template
+# nodejs boilerplate
 
-node version 14.15.1
+## Setup
+
+```
+$ make install
+```
+
+## Run tests
+
+```
+$ make test
+```
